@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0b1320;
+      }
+
+      .cls-2 {
+        font-size: 78.09px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #5bc0be;
+        font-family: BlowBrush, BlowBrush;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-size: 78.09px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_4" data-name="Capa 4">
+    <rect class="cls-4" x="0" width="500" height="500"/>
+  </g>
+  <g id="Capa_3" data-name="Capa 3">
+    <g>
+      <path class="cls-1" d="m252.49,430.42c-9.9,4.47-31.78,6.01-45.45-1.29-27.76-14.83-60.38-39.62-85.26-63.74C-6.07,241.47-6.9,59.47,158.98,65.98c29.31,1.15,56.64,13.67,89.3,49.57,33.95-32.42,63.12-44.8,83.53-47.35,45.74-5.73,69.09,7.95,87.93,23.09,28.12,22.6,42.5,46.34,47.61,73.05,10.91,57.03-8.65,129.06-74.39,180.43-3.56,1.14-5.82,1.29-3.56-2.12,16.49-24.86,28.69-51.39,30.03-73.01,1.57-25.24-6.56-44.61-22.17-62.16-29.14-32.77-57.7-40.18-96.65-32.06-68.67-92.91-261.42-31.76-177.27,154.86,11.94-17.12,42.87-19.46,50.76-18.97,13.68-1.45,21.95-13.62,42.82-15.29,15.95-1.28,32.43,1.25,42.34,21.41,1.81,3.68,2.87,6.75,2.72,12.53-.3,9.68-2.23,23.36.5,33.18s4.89,10.56,7.75,22.36c6.24,25.75-2.6,39.75-17.73,44.92Z"/>
+      <ellipse class="cls-1" cx="164.11" cy="247.15" rx="42.74" ry="31.56" transform="translate(-107.78 365.85) rotate(-80)"/>
+      <ellipse class="cls-1" cx="250.32" cy="231.94" rx="49.55" ry="36.82" transform="translate(-46.62 400.11) rotate(-72.34)"/>
+      <ellipse class="cls-1" cx="322.25" cy="291.63" rx="50.83" ry="36.17" transform="translate(-111.83 313.28) rotate(-45)"/>
+      <ellipse class="cls-1" cx="322.86" cy="379.04" rx="44.22" ry="30.59" transform="translate(-158.99 253.6) rotate(-34.98)"/>
+    </g>
+    <text class="cls-2" transform="translate(137.02 269.14) rotate(10) scale(1.05 1)"><tspan x="0" y="0">U</tspan></text>
+    <text class="cls-3" transform="translate(219.7 246.02) rotate(17.66) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+    <text class="cls-2" transform="translate(278.44 294.72) rotate(45) scale(1.05 1)"><tspan x="0" y="0">W</tspan></text>
+    <text class="cls-2" transform="translate(289.17 376.36) rotate(56) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+  </g>
+</svg>

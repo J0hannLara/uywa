@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904492789891",
+    "project_id": "uywa-be7a9",
+    "storage_bucket": "uywa-be7a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904492789891:android:17d3aa23ee0d32d7976bb6",
+        "android_client_info": {
+          "package_name": "bo.mypets.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYU81WW4ocgbHv2AN2mBxLmeHC9jNO3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
